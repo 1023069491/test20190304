@@ -23,10 +23,6 @@
     NSLog(@"test0628");
 }
 
--(void)testBranch{
-    
-    NSLog(@"test branch");
-}
 
 -(void)testTagAfter{
     NSLog(@"test tag");
