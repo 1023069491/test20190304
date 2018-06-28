@@ -23,6 +23,11 @@
     NSLog(@"test0628");
 }
 
+-(void)testBranch{
+    
+    NSLog(@"test branch");
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
