@@ -23,6 +23,10 @@
     NSLog(@"test0628");
 }
 
+-(void)test2{
+    NSLog(@"test0628 0629");
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
