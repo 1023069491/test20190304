@@ -28,6 +28,10 @@
     NSLog(@"test branch");
 }
 
+-(void)testTagAfter{
+    NSLog(@"test tag");
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
