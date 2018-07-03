@@ -20,9 +20,12 @@
 }
 
 -(void)test{
-    NSLog(@"test0628");
+    //NSLog(@"test0628");
 }
 
+-(void)mastAddSome{
+    NSLog(@"mastAddSome");
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
